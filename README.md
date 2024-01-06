@@ -11,3 +11,6 @@ Configurando o Phishing no Kali Linux
 - Método de ataque:Credential Harvester Attack Method
 - Método de ataque:Site cloner
 - URL para clonar: http://www.facebook.com
+
+  Resultado
+![Sem título](https://github.com/Maycon-Jhony/projeto-Dio---Phishing-com-o-Kali-Linux/assets/152757610/ab61c322-e001-4e9d-bed3-da48779e96ad)
